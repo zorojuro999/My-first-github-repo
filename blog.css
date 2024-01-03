@@ -3,3 +3,9 @@ div{
   padding: 10px;
   font-size: larger;
 }
+
+.instruction{
+  color: yellow;
+  background-color: black;
+  width: 300px;
+}
